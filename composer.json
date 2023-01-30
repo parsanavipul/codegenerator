@@ -1,5 +1,5 @@
 {
-    "name": "crocodicstudio/crudbooster",
+    "name": "parsanavipul/crudbooster",
     "description": "CRUDBooster Is CRUD Generator Based On Laravel Easy To Make An Advanced Backend",
     "type": "library",
     "license": "MIT",
@@ -20,7 +20,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-         "php": "^7.3|^8.0",
+         "php": "^7.3|^8.0|9.*",
         "barryvdh/laravel-dompdf": "0.8.*",
         "doctrine/dbal": "~2.3",
         "maatwebsite/excel": "^3.1",
